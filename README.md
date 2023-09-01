@@ -3,7 +3,7 @@
 
 ## LoRa Integration:
 
-I successfully integrated the LoRa code into our existing codebase. This involved making adjustments to our libraries and header files to ensure a seamless integration. The code is now fully functional and ready for use.
+I successfully integrated the LoRa basic sender code into our existing codebase. This involved making adjustments to our libraries and header files to ensure a seamless integration. The code is now fully functional and ready for use.
 
 ## TDC GP22 Module Compatibility:
 
